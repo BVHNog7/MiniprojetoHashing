@@ -1,6 +1,6 @@
 # MiniprojetoHashing
 
-Alunos: Willyan Wallace dos Santos Barros e Beatriz Victória Holanda Nogueira
+Alunos: Willyan Wallace dos Santos Barros e Beatriz Victória Holanda Nogueira 
 
 Mini-projeto da disciplina de Estruturas de Dados do Instituto Federal de Alagoas campus Maceió.
 
